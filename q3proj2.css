@@ -1,0 +1,36 @@
+#logo{
+	width: 30px;
+	height: 30px;
+}
+#sched{
+	width: 450px;
+	height: 250px;
+}
+body{
+	background-color: #d92323;
+	background-image: url(https://i.pinimg.com/originals/89/c4/1b/89c41b5719cee78af952def438761e11.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#title{
+	background-image: linear-gradient(#FFFDD0, #3ac597);
+	width: 750px;
+	height: 40px;
+	margin: 25px;
+	color: white;
+	font-family: Avantgarde;
+	font-style: italic;
+	font-size: 35px;
+	color: #2c968a;
+}
+#chiikawa{
+	width: 200px;
+	height: 200px;
+	opacity: 0.01;
+	position: fixed; bottom: 0px; right: 0px;
+}
+#search{
+	background-image: linear-gradient(#FFFDD0, #3ac597);
+	border: 0px;
+}

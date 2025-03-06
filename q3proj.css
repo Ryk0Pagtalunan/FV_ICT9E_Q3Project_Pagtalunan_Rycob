@@ -1,0 +1,61 @@
+body{
+	background-color: #d92323;
+	background-image: url(https://i.pinimg.com/originals/89/c4/1b/89c41b5719cee78af952def438761e11.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#title{
+	background-image: linear-gradient(#FFFDD0, #3ac597);
+	width: 750px;
+	height: 40px;
+	margin: 25px;
+	color: white;
+	font-family: Avantgarde;
+	font-style: italic;
+	font-size: 35px;
+	color: #2c968a;
+}
+#map{
+	width: 450px;
+	height: 500px;
+}
+#ticketimg{
+	width: 200px;
+	height: 125px;
+}
+#TicketP{
+	background-image: linear-gradient(#FFFDD0, #3ac597);
+	border: 0px;
+}
+#Stops{
+	background-image: linear-gradient(#FFFDD0, #3ac597);
+	border: 0px;
+
+}
+label{
+	color: #BAD8B6;
+	font-weight: bold;
+	font-style: Bookman, URW Bookman L;
+	font-family: serif;
+}
+#logo{
+	width: 30px;
+	height: 30px;
+}
+#search{
+	background-image: linear-gradient(#FFFDD0, #3ac597);
+	border: 0px;
+}
+#TicketB{
+	background-image: linear-gradient(#FFFDD0, #3ac597);
+	width: 825px;
+	font-weight: bold;
+	font-style: Bookman, URW Bookman L;
+	font-family: serif;
+	opacity: 0.9;
+}
+#buttony{
+	background-image: linear-gradient(#FFFDD0, #FFFDD0);
+	border: 0px;
+}
